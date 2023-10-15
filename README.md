@@ -12,4 +12,4 @@ To pull (download) configuration, use the command:
 To push (upload) your configuration, use the following commands:  
 **git -C /home/pi/printer_data/config/ add /home/pi/printer_data/config/***  
 **git -C /home/pi/printer_data/config/ commit -m "configuration update"**  
-**gut -C /home/pi/printer_data/config/ push**  
+**git -C /home/pi/printer_data/config/ push**  
