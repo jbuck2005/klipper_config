@@ -1,10 +1,10 @@
-# Klipper configuration backups
+# Maximus klipper configuration backups
 
 Be sure to select the correct branch before proceeding!
 To do this on github ( web based ) use the drop-down which presently says "Main" and select your branch
 
 Linux command prompt:<br>
-**git -C /home/pi/printer_data/config/ checkout paul_ender3**
+**git -C /home/pi/printer_data/config/ checkout james_cr10max**
 
 To pull (download) configuration, use the command:  
 **git -C /home/pi/printer_data/config/ pull**      (if you get an error message, you may need to run the command:   **git config pull.rebase false** )
